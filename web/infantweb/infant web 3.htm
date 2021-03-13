@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<!-- saved from url=(0074)http://chals.whitehacks.ctf.sg:50301/final-section-lets-get-flag-8008.html -->
+<html><!--
+    Made by Lord_Idiot with love <3
+    Hope you can learn something from this challenge
+--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>infant web</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="./infant web 3_files/chota@latest">
+</head>
+<body data-new-gr-c-s-check-loaded="14.997.0" data-gr-ext-installed="">
+  <div class="container">
+    <div class="row">
+      <h1>infant web (Client-side Verification)</h1>
+    </div>
+    <p>Congratulations on coming this far! This will be the last challenge, and will yield the flag to you upon completion.</p>
+    <h2>Topics Covered</h2>
+    <div class="row">
+      <div class="col">
+        <a href="http://chals.whitehacks.ctf.sg:50301/#basics-web" style="color: rgb(51,51,51);">
+          <div class="card bg-light" href="basics-web">
+            <header><h3>Basics of Web Requests</h3></header>
+            <p>How do we go from typing a url in the address bar to viewing the webpage in our browser?</p>
+          </div>
+        </a>
+      </div>
+      <div class="col">
+        <a href="http://chals.whitehacks.ctf.sg:50301/web-recon-secret-url-31337.html#web-recon" style="color: rgb(51,51,51);">
+          <div class="card bg-light">
+            <header><h3>Simple Web Reconnaissance</h3></header>
+            <p>Basic techniques to gain a better understanding of the target website</p>
+          </div>
+        </a>
+      </div>
+      <div class="col">
+        <a href="http://chals.whitehacks.ctf.sg:50301/final-section-lets-get-flag-8008.html#client-side" style="color: rgb(51,51,51);">
+          <div class="card bg-light bd-grey">
+            <header><h3>Client-side Verification</h3></header>
+            <p>What it is, and what could happen if used incorrectly</p>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div id="client-side" class="card bd-light">
+      <h2>Client-side Verification</h2>
+      <p>Verification in the web world can take place generally in two-forms, client-side and server-side. And making the wrong choice can lead to security bypasses and issues. Thus, it is important to understand this concept well, whether you wish to secure websites or break into them.</p>
+      <h3>What is verification?</h3>
+      <p>Verification in this context just means checking for certain conditions before allowing for a certain action to be performed. One example of verification everybody should know of is log-in verification. In order to determine whether the user is allowed to log-in to a specific account, the user must provide the correct password, which the website should <em>verify as valid</em> before allowing the user to proceed to log-in.</p>
+      <h3>When to use server-side</h3>
+      <p>Server-side verification should be used for security critical verifications. Such examples include</p>
+      <ul>
+          <li>Password verification</li>
+          <li>Authentication - Is the user allowed to view this information?</li>
+          <li>Transactions - Does the user have sufficient funds?</li>
+      </ul>
+      <p>However, verification that are not security critical can be delegated to the client-side, which reduces the amount of information the server will have to process, saving cost and improving performance.</p>
+      <h3>When to use client-side</h3>
+      <p>Here are some examples of verifications one might need to perform, but are not security-related and thus can be done in the client-side, using technologies like Javascript. Javascript basically gives instructions to the browser, for the browser to perform the actions instead of an external server. Such javascript instructions can be embedded in the HTML of the page sent to the browser.</p>
+      <ul>
+          <li>Spell-checking</li>
+      </ul>
+      <h3>Misusing Client-side Verification</h3>
+      <p>If you mistakenly use client-side verification, this may cause security issues. Client-side verifications rely on the browser to enforce the verification. Considering the browser is a program that the user runs on his own computer, such checks can thus be circumvented by preventing the browser from performing the checks, or through other means.</p>
+      <p>Mistakenly performing client-side verification is similar to conducting an exam, but providing students with the answer sheet at the back. Such mistakes may not be caught, but once students realise that the answers are at the back, there is no way to stop them from just copying the answers to get a perfect score. Instead, exams usually have students take the test with a paper lacking the answers, and the answers are verified by the examining body (the server side), this is the proper way to go about with such verifications.</p>
+      <div id="comic2">
+        <div class="row is-center">
+          <img src="./infant web 3_files/comic2.png">
+        </div>
+        <div class="row is-center"><p><strong>Comic #2</strong> - Client-side Verification in Exams</p></div>
+      </div>
+    </div>
+    <div id="challenge" class="card bd-light" style="margin: 10px 0px">
+      <h2>The Challenge</h2>
+      <p>Now that you understand the issues with using client-side verification. Here is a simple client-side verification challenge for you embedded in this website</p>
+      <p>Here is a password checker, if you get the correct password, you get the flag! To view the Javascript code that performs the checking, use <strong>Control + U</strong> to view the HTML source and understand the Javascript code.</p>
+      <!-- Javascript code to handle password check -->
+      <script>
+        // Once the code calls this correctly, you get the flag
+        function flag(password){
+            // You do not need to understand this
+            var encrypted = ">,[_FX\x1f0\x00\x01\x1b\x016\x00\x1a6\x10\x1b\x0e\x17\x02;\x0f\x00\x066\x13Z\r+\x0e\x16\x0c\x0e\x00'\x01\x1a\x1cU\x14";
+            var _flag = Array.from(xorString(password)(encrypted)).join("")
+            // Show flag to user
+            var textnode = document.createTextNode("Congratulations, here is the flag: "+_flag);
+            var node = document.getElementById("result")
+            node.innerHTML = "";
+            node.appendChild(textnode);
+            node.classList = ["text-success"];
+        }
+        //   __                        _                   
+        //  / _| ___   ___ _   _ ___  | |__   ___ _ __ ___ 
+        // | |_ / _ \ / __| | | / __| | '_ \ / _ \ '__/ _ \
+        // |  _| (_) | (__| |_| \__ \ | | | |  __/ | |  __/
+        // |_|  \___/ \___|\__,_|___/ |_| |_|\___|_|  \___|
+        //
+        //                      ||
+        //                      \/
+        //
+        // This function is called each time you press the "Submit"
+        // button, verifying whether you typed the correct password
+        function checkPassword(){
+            // password contains the password the user typed
+            var password = document.getElementById("passwd").value;
+            
+            if(password[0] == 'i'){
+                if(password[1] == 'd'){
+                    if(password[2] == 'i'){
+                        if(password[3] == 'o'){
+                            if(password[4] == 't'){
+                                flag(password);
+                                return;
+                            }
+                        }
+                    }
+                }
+            }
+            // If the password check fails (You can ignore this)
+            var textnode = document.createTextNode("You got the password wrong! Try to understand the password checking logic and try again. You're almost there.");
+            var node = document.getElementById("result")
+            node.innerHTML = "";
+            node.appendChild(textnode);
+            node.classList = ["text-error"];
+        }
+        // You do not need to understand this
+        function xorString(init) {
+            const initArr = Array.from(init);
+            const initLength = initArr.length;
+            return function * (input) {
+                let idx = 0;
+                for (const ch of input) {
+                    yield initLength === 0 ? ch : String.fromCharCode(ch.charCodeAt(0) ^ initArr[(idx ++) % initLength].charCodeAt(0));
+                }
+            }
+        }
+          
+      </script>
+      <h4>Password:</h4>
+      <input type="text" id="passwd" name="passwd" value=""><br>
+      <button onclick="checkPassword()">Submit</button>
+      <h4>Result:</h4>
+      <p id="result" class="text-success">Congratulations, here is the flag: WH2021{Youre_on_track_for_w3b_greatNess!}</p></div>
+      
+
+    </div>
+  
+
+</body></html>

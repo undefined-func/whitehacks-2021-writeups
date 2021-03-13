@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<!-- saved from url=(0068)http://chals.whitehacks.ctf.sg:50301/web-recon-secret-url-31337.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>infant web</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="./infant web 2_files/chota@latest">
+</head>
+<body data-new-gr-c-s-check-loaded="14.997.0" data-gr-ext-installed="">
+  <div class="container">
+    <div class="row">
+      <h1>infant web (Web Reconnaissance)</h1>
+    </div>
+    <p>Great job finding this page. I hope you've learnt something new in the previous exercise.</p>
+    <h2>Topics Covered</h2>
+    <div class="row">
+      <div class="col">
+        <a href="http://chals.whitehacks.ctf.sg:50301/#basics-web" style="color: rgb(51,51,51);">
+          <div class="card bg-light" href="basics-web">
+            <header><h3>Basics of Web Requests</h3></header>
+            <p>How do we go from typing a url in the address bar to viewing the webpage in our browser?</p>
+          </div>
+        </a>
+      </div>
+      <div class="col">
+        <a href="http://chals.whitehacks.ctf.sg:50301/web-recon-secret-url-31337.html#web-recon" style="color: rgb(51,51,51);">
+          <div class="card bg-light bd-grey">
+            <header><h3>Simple Web Reconnaissance</h3></header>
+            <p>Basic techniques to gain a better understanding of the target website</p>
+          </div>
+        </a>
+      </div>
+      <div class="col">
+        <a href="http://chals.whitehacks.ctf.sg:50301/web-recon-secret-url-31337.html#" style="color: rgb(51,51,51);">
+          <div class="card bg-light">
+            <header><h3>Client-side Verification</h3></header>
+            <p>What it is, and what could happen if used incorrectly</p>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div id="web-recon" class="card bd-light">
+      <h2>Simple Web Reconnaissance</h2>
+      <p>Now, one basic skill in web hacking is reconnaissance. You may know this term in the context of wars or battles, where recon involves scouting or similar activities to gain information about the enemy forces or surrounding terrain.</p>
+      <p>Web reconnaissance is a similar concept. Before you are ready to launch your next big hack on Facebook or Google or any other website/web service, you need to understand which areas to look into to find useful information for performing your attack. This is the essence of web reconnaissance in the context of web hacking.</p>
+      <h3>What can we gain?</h3>
+      <p>It might not seem too useful to perform reconnaissance on a website, what can we even gain from such activities?</p>
+      <h4>1) Feature Discovery</h4>
+      <p>Reconnaissance of websites/web services allow us to discover more features of the server that we aim to attack. The more features we are aware of, the more possible attack paths we could try to plan, and the more areas we could look at to find bugs/vulnerabilites. To provide an analogy, if we were to aim to rob a bank, we should somehow perform recon on the bank itself, to figure out where the doors are, how many security guards there are, etc. Only with such information will we be able to craft a heisting plan.</p>
+      <h4>2) Secret Endpoints</h4>
+      <p>Often, web developers make mistakes in configuration and may allow certain pages to be seen by unauthorised users. For example, web blogging websites may have admin pages for administration of the blog posts. If these were misconfigured, perhaps a normal user could view it and perform administrative actions on the website without authorisation. However, a normal user may not even know this page exists, reconnaissance helps to find such secret pages that are usually not exposed to the user.</p>
+      <h4>3) ... </h4>
+      <p>The benefits of web reconnaissance are plenty, and listing them all will make this already length challenge even more lengthy. If this topic interests you, you may wish to learn more from experts in this field like <a href="https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw">NahamSec</a>!</p>
+      <br>
+      <h3>How can we do it?</h3>
+      <p>There are various ways to perform web reconnaissance, and in fact, viewing the HTML source that you performed in the previous section is also one possible way to conduct web reconnaissance. The only way you found this secret page way because you were able to find the HTML comment left behind by a developer! You'll be surprised, but such comments really exist in the real world, and can greatly help with recon.</p>
+      <p>The technique I will showcase in this section will be simple, common file scanning!</p>
+      <p>There are certain files or webpages that can be found in many websites, and some of these can reveal more information to us in order to aid in our reconnaissance. Therefore, it's always worth a try to check whether the website you are testing has these pages, in order to give your recon data a little boost.</p>
+      <p>Here are a few common examples:</p>
+      <ul>
+          <li>
+            <h4>/robots.txt</h4>
+            <p>This is a classic example for this recon technique. The /robots.txt file is meant to be read by web crawlers (used by search engines to find pages) which pages it should NOT visit. This helps to reduce traffic from bots for certain endpoints that may be resource intensive.</p>
+            <p>Here is an example in a real-world website: <a href="https://www.google.com/robots.txt">google.com/robots.txt</a></p>
+          </li>
+          <li>
+            <h4>/.git/HEAD</h4>
+            <p>This is a file that you may find on websites that make use of git for version control. If the developer mistakenly allows access to the .git directory, you would be able to view this .git/HEAD page. Such issues can be very severe as it could leak sensitive information and source code as a lot of information can be exfiltrated from the .git directory</p>
+            <p>Here are some real world examples: <a href="https://www.zdnet.com/article/nissan-source-code-leaked-online-after-git-repo-misconfiguration/">Nissan Oopsies</a> <a href="https://slashcrypto.org/2018/11/28/eBay-source-code-leak/">eBay Japan</a></p>
+          </li>
+          <li>
+            <h4>/sitemap.xml</h4>
+            <p>A sitemap is provided by developers in order to help search engine crawl their sites more intelligently. This improves their chances of appearing higher up in search engine searches, which helps bring traffic to their websites.</p>
+            <p>Here is an example in a real-world website: <a href="https://www.tech.gov.sg/sitemap.xml">GovTech Singapore</a></p>
+          </li>
+      </ul>
+    </div>
+    <div id="challenge" class="card bd-light" style="margin: 10px 0px">
+      <h2>The Challenge</h2>
+      <p>Hopefully you have some understanding of the importance of web recon, and how you can perform it at a basic level.</p>
+      <p>Now let's test your understanding of this concept! This website you are viewing has a common filepath that can give you more information for reconnaissance. It is not in the list of examples I've provided in the article, so you should do some research to find more common filepaths to search</p>
+      <p>To give you a hint, the path looks like so <strong>/s_______.txt</strong>, where each underscore corresponds with a letter I've hidden. Once you find this file you'll be lead to the next and final stage. All the best!</p>
+      <p>Quick tip: You may be able to find many lists online from bug bounty hunters or web hackers, which may contain this <strong>well-known</strong> filename you are looking for</p>
+    </div>
+  </div>
+
+</body></html>

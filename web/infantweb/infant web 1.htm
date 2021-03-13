@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<!-- saved from url=(0038)http://chals.whitehacks.ctf.sg:50301/# -->
+<html><!--
+  This page may look super confusing. But these are the actual HTML descriptions that
+  the webserver provides the browser for the browser to render into a webpage.
+  
+  Amazing isnt it!
+
+  What you're reading here right now is a HTML comment. These are snippets of information
+  that the web developers can add into the HTML descriptions which do not get rendered by
+  the browser onto the screen. They are mostly used to aid in debugging the website and for
+  making the HTML look a bit neater. You can read more about them here:
+
+  ===================== URL ======================
+  https://www.w3schools.com/html/html_comments.asp
+  ================================================
+
+  In fact, some programmers may even use HTML comments to communicate with other members of
+  their team. They may also forget to remove HTML comments that contain sensitive information
+  before publishing the website for everybody to view.
+
+  As hackers, we can leverage such mistakes to learn more about the website, and find juicy
+  secrets the developer never meant for us to see!
+
+  In this web page, I've added one other comment that should lead you to the next part of the
+  challenge, try to find it to proceed to the next section!
+
+  Quick tip: html comments start with a <!--, try looking for these characters in the HTML
+
+                        _   _            _      _                _             
+   __ _  ___   ___   __| | | |_   _  ___| | __ | |__   __ _  ___| | _____ _ __ 
+  / _` |/ _ \ / _ \ / _` | | | | | |/ __| |/ / | '_ \ / _` |/ __| |/ / _ \ '__|
+ | (_| | (_) | (_) | (_| | | | |_| | (__|   <  | | | | (_| | (__|   <  __/ |   
+  \__, |\___/ \___/ \__,_| |_|\__,_|\___|_|\_\ |_| |_|\__,_|\___|_|\_\___|_|   
+  |___/                                                                        
+--><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>infant web</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="./infant web 1_files/chota@latest">
+</head>
+<body data-new-gr-c-s-check-loaded="14.997.0" data-gr-ext-installed="">
+  <div class="container">
+    <div class="row">
+      <h1>infant web</h1>
+    </div>
+    <p>Welcome to <em>infant web</em>, let's learn some web hacking basics!</p>
+    <h2>Topics Covered</h2>
+    <div class="row">
+      <div class="col">
+        <a href="http://chals.whitehacks.ctf.sg:50301/#basics-web" style="color: rgb(51,51,51);">
+          <div class="card bg-light bd-grey" href="basics-web">
+            <header><h3>Basics of Web Requests</h3></header>
+            <p>How do we go from typing a url in the address bar to viewing the webpage in our browser?</p>
+          </div>
+        </a>
+      </div>
+      <div class="col">
+        <!--
+          TODO: John, once you've completed the web recon page
+                at /web-recon-secret-url-31337.html please help
+                me to update the href in this element. Thanks :)
+        -->
+        <a href="http://chals.whitehacks.ctf.sg:50301/#" style="color: rgb(51,51,51);">
+          <div class="card bg-light">
+            <header><h3>Simple Web Reconnaissance</h3></header>
+            <p>Basic techniques to gain a better understanding of the target website</p>
+          </div>
+        </a>
+      </div>
+      <div class="col">
+        <a href="http://chals.whitehacks.ctf.sg:50301/#" style="color: rgb(51,51,51);">
+          <div class="card bg-light">
+            <header><h3>Client-side Verification</h3></header>
+            <p>What it is, and what could happen if used incorrectly</p>
+          </div>
+        </a>
+      </div>
+    </div>
+    <div id="basics-web" class="card bd-light">
+      <h2>Basics of Web Requests</h2>
+      <p>Many of us use the internet everyday, browsing through various articles, playing games, using social media websites, etc. But, how much do we really know about how this happens? More specifically, what happens in the time between typing the <a href="https://en.wikipedia.org/wiki/URL"><em>URL</em></a> into the address-bar of the browser and when the browser actually displays the webpage for us to read or interact with?</p>
+      <h3>A simplistic analogy</h3>
+      <p>To understand this process that is usually transparent to us end-users, we can use the following analogy:</p>
+      <div class="row is-center" style="margin: 20px 0px;">
+        <div class="card" style="max-width: 1000px; border: 1px solid">
+          <header><h3>User: <em>The Police</em></h3></header>
+          <p>In this analogy, the user can be likened to a police officer trying to hunt down a particular criminal. However, the police does not know what the criminal looks like. And thus, would need external help to figure out exactly what this criminal looks like.</p>
+          <p>Similarly, as users browsing the internet, we would like to know what the various webpages we browse to look like, and thus would need to enlist the help of browsers and web servers to help us.</p>
+        </div>
+      </div>
+      <div class="row is-center" style="margin: 20px 0px;">
+        <div class="card" style="max-width: 1000px; border: 1px solid green">
+          <header><h3>Browser: <em>Sketch Artist</em></h3></header>
+          <p>The browser is similar to a sketch artist in this scenario. In such investigations, a sketch artist is useful as he can turn descriptions from a eyewitness into a drawing for the police to interpret.</p>
+          <p>Browsers work the same way, they have the ability to render webpages to the screen for users to see, just based on descriptions of the webpage from a web server.</p>
+          <p>Just as different artists may create different drawings when given identical instructions, different browsers may render webpages differently even when processing the same data from a web server. Therefore, the way you see websites is very dependent on how browsers decide to render them for us to see, and thus we place a lot of trust in them to create accurate depictions.</p>
+        </div>
+      </div>
+      <div class="row is-center" style="margin: 20px 0px;">
+        <div class="card" style="max-width: 1000px; border: 1px solid blue">
+          <header><h3>Web server: <em>Eyewitness</em></h3></header>
+          <p>Lastly, the web server would be the eyewitness. To aid the police in understanding what the criminal looks like, the eyewitnesses will provide descriptions of all the features of the criminal, for the sketch artist to turn into a drawing.</p>
+          <p>Web servers act just like the eyewitnesses, they use markup languages like <em>HTML</em> to describe what a webpage should look like to the browser, but ultimately rely on the browser to turn these descriptions into a nice looking webpage for the users to view and interact with</p>
+        </div>
+      </div>
+      <br>
+      <p>Hopefully this short analogy has allowed you to have a slightly better understanding of how the web works with more detail than we usually are exposed to. Below is a comic I made to give a rough overview of this process in case I've lost you in the previous analogy.</p>
+      <ol>
+        <li>The user informs the browser of the page he would like to view</li>
+        <li>The browser determines which web server would have the description he needs to render the page the user requests, and sends a request to the corresponding web server for a description of the page. The web server, "google.com" in this case, sends the description to the browser.</li>
+        <li>Finally, the browser takes that description, and renders it as accurately as possible, for the user to view or interact with.</li>
+      </ol>
+      <div id="comic1">
+        <div class="row is-center">
+          <img src="./infant web 1_files/comic1.png">
+        </div>
+        <div class="row is-center"><p><strong>Comic #1</strong> - Visualisation of basic flow when browsing the internet</p></div>
+      </div>
+    </div>
+    <div id="challenge" class="card bd-light" style="margin: 10px 0px">
+      <h2>The Challenge</h2>
+      <p>Now that we have some understanding of the various mechanisms that occur while we view webpages, let's try to dig a bit deeper. Earlier, I told you that browsers only receive descriptions of the webpages in formats like <em>HTML</em> and turn them into a form that we can view on our screens. This hides the <em>HTML</em> data away from us as it's mostly useless to us as regular users.</p>
+      <p>However, as web hackers, we want to gain deeper understanding of websites in order to uncover various bugs or vulnerabilities. Viewing the original <em>HTML</em> provided by the webserver, is one way we can gain deeper understanding of the websites to possibly gain interesting information! On your browser (I'm assuming you're on a PC), press <b>Control + U</b> ( <b>Command + Option + U</b> on Mac) to view the original HTML before the browser rendered it.</p>
+    </div>
+  </div>
+
+</body></html>
