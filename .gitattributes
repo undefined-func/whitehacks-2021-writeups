@@ -1,1 +1,2 @@
 *.mem filter=lfs diff=lfs merge=lfs -text
+forensics/Can[[:space:]]you[[:space:]]handle[[:space:]]these[[:space:]]files?/memdump.mem filter=lfs diff=lfs merge=lfs -text
