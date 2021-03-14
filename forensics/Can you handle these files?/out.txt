@@ -1,0 +1,406 @@
+httpsendrequesta
+http://errorsafe.com
+https
+The HTTP kernel driver (http.sys) reached a corrupted state and can not recover.  This means
+^http://dmd-ca-beta2/CertEnroll/dmd-ca-beta2_Microsoft%20Digital%20Media%20Authority%202005.crt0d
+Qhttp://dmd-ca-beta2/CertEnroll/Microsoft%20Digital%20Media%20Authority%202005.crl
+^http://dmd-ca-beta2/CertEnroll/dmd-ca-beta2_Microsoft%20Digital%20Media%20Authority%202005.crt0d
+Qhttp://dmd-ca-beta2/CertEnroll/Microsoft%20Digital%20Media%20Authority%202005.crl
+<http://ns.adobe.com/xap/1.0/
+<x:xmpmeta xmlns:x="adobe:ns:meta/"><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"><rdf:Description rdf:about="uuid:faf5bdd5-ba3d-11da-ad31-d33d75182f1b" xmlns:dc="http://purl.org/dc/elements/1.1/"/><rdf:Description rdf:about="uuid:faf5bdd5-ba3d-11da-ad31-d33d75182f1b" xmlns:tiff="http://ns.adobe.com/tiff/1.0/"/></rdf:RDF></x:xmpmeta>
+ sj\u003dfunction(a,b,c){_.pd.log(46,{att:a,max:b,url:c})},uj\u003dfunction(a,b,c){_.pd.log(47,{att:a,max:b,url:c});a\u003cb?tj(a+1,b):_.od.log(Error(\"Q`\"+a+\"`\"+b),{url:c})},tj\u003dfunction(a,b){if(vj){var c\u003d_.qe(\"SCRIPT\");c.async\u003d!0;c.type\u003d\"text/javascript\";c.charset\u003d\"UTF-8\";_.$d(c,vj);c.onload\u003d_.Gd(sj,a,b,c.src);c.onerror\u003d_.Gd(uj,a,b,c.src);_.pd.log(45,{att:a,max:b,url:c.src});_.je(\"HEAD\")[0].appendChild(c)}},wj\u003dfunction(a){_.B(this,a,0,-1,null,null)};_.x(wj,_.A);\nvar xj\u003d_.I(_.kd,wj,17)||new wj,yj,vj\u003d(yj\u003d_.I(xj,_.qj,1))?_.pj(yj):null,zj,Aj\u003d(zj\u003d_.I(xj,_.qj,2))?_.pj(zj):null,Bj\u003dfunction(){tj(1,2);if(Aj){var a\u003d_.qe(\"LINK\");a.setAttribute(\"type\",\"text/css\");_.rj(a,Aj,\"stylesheet\");var b\u003d_.Kd();b\u0026\u0026a.setAttribute(\"nonce\",b);_.je(\"HEAD\")[0].appendChild(a)}};\n(function(){var a\u003d_.ld();if(_.G(a,18))Bj();else{var b\u003d_.E(a,19)||0;window.addEventListener(\"load\",function(){window.setTimeout(Bj,b)})}})();\n\n}catch(e){_._DumpException(e)}\n})(this.gbar_);\n// Google Inc.\n"},"in_head_script":{"private_do_not_access_or_else_safe_script_wrapped_value":";this.gbar_\u003d{CONFIG:[[[0,\"www.gstatic.com\",\"og.qtm.en_US.0F8qWRnDw-8.O\",\"com.sg\",\"en\",\"243\",0,[4,2,\".40.40.40.76.40.40.40.\",\"\",\"1300102,3700267,3700830\",\"356173142\",\"0\"],null,\"_hkxYO_rLbeF4-EPtsOiwAE\",null,0,\"og.qtm.Re5eipxP4qU.L.W.O\",\"AA2YrTvA_4sPZk1TCFyvPX2yPaly-EFrjA\",\"AA2YrTuD0UOKRez51LgQupXLrTdvt3FIvg\",\"\",2,1,200,\"SGP\",null,null,\"1\",\"243\",1],null,[1,0.1000000014901161,2,1],[1,0.001000000047497451,1],[0,0,0,null,\"\",\"\",\"\",\"\"],[0,1,\"\",1,0,1,0,0,0,1,0,0,0,null,0,0,null,null,0,0,0,\"\",\"\",\"\",\"\",\"\",\"\",null,0,0,0,0,0,null,null,null,\"rgba(32,33,36,1)\",\"transparent\",0,0,1,null,null,0,0,0],null,null,[\"1\",\"gci_91f30755d6a6b787dcc2a4062e6e9824.js\",\"googleapis.client:gapi.iframes\",\"\",\"en\"],null,null,null,null,[\"m;/_/scs/abc-static/_/js/k\u003dgapi.gapi.en.L7mys-cL6BM.O/d\u003d1/ct\u003dzgms/rs\u003dAHpOoo8QoBZWYtEZfsgOGqh_X1WKvJV7Wg/m\u003d__features__\",\"https://apis.google.com\",\"\",\"\",\"\",\"\",null,1,\"es_plusone_gc_20210105.0_p0\",\"en\",null,0],[0.009999999776482582,\"com.sg\",\"243\",[null,\"\",\"0\",null,1,5184000,null,null,\"\",null,null,null,null,null,0,null,1,0,1,0,0,0,null,null,0,0],null,null,null,0,null,null,[\"5061451\",\"google\\\\.(com|ru|ca|by|kz|com\\\\.mx|com\\\\.tr)$\",1]],[1,1,null,40400,243,\"SGP\",\"en\",\"356173142.0\",7,0.009999999776482582,0,0,null,null,1,0,\"3700830\",null,null,null,\"_hkxYO_rLbeF4-EPtsOiwAE\",0,0],[[null,null,null,\"https://www.gstatic.com/og/_/js/k\u003dog.qtm.en_US.0F8qWRnDw-8.O/rt\u003dj/m\u003dq_dnp,qmd,qcwid,qmutsd,qapid,qald/exm\u003dqaaw,qabr,qadd,qaid,qalo,qebr,qein,qhaw,qhbr,qhch,qhga,qhid,qhin,qhlo,qhmn,qhpc,qhpr,qhsf,qhtb,qhtt/d\u003d1/ed\u003d1/rs\u003dAA2YrTvA_4sPZk1TCFyvPX2yPaly-EFrjA\"],[null,null,null,\"https://www.gstatic.com/og/_/ss/k\u003dog.qtm.Re5eipxP4qU.L.W.O/m\u003dqmd,qcwid/excm\u003dqaaw,qabr,qadd,qaid,qalo,qebr,qein,qhaw,qhbr,qhch,qhga,qhid,qhin,qhlo,qhmn,qhpc,qhpr,qhsf,qhtb,qhtt/d\u003d1/ed\u003d1/ct\u003dzgms/rs\u003dAA2YrTuD0UOKRez51LgQupXLrTdvt3FIvg\"]],null,null,[\"\"],[[[null,null,[null,null,null,\"https://ogs.google.com/widget/app/so\"],0,448,328,57,4,1,0,0,63,64,8000,\"https://www.google.com.sg/intl/en/about/products?tab\u003drh\",67,1,69,null,1,70,\"Can\u0027t seem to load the app launcher right now. Try again or go to the %1$sGoogle Products%2$s page.\",3,1,0,74,0]],0,[null,null,null,\"https://www.gstatic.com/og/_/js/k\u003dog.qtm.en_US.0F8qWRnDw-8.O/rt\u003dj/m\u003dqdsh/d\u003d1/ed\u003d1/rs\u003dAA2YrTvA_4sPZk1TCFyvPX2yPaly-EFrjA\"],\"1\",\"243\",1,0,null,\"en\",0]]],};this.gbar_\u003dthis.gbar_||{};(function(_){var window\u003dthis;\ntry{\n/*\n\n Copyright The Closure Library Authors.\n SPDX-License-Identifier: Apache-2.0\n*/\nvar ea,ha,ia,ja,ka,la,na,oa,sa,ta,Da,Ea,Fa;_.aa\u003dfunction(a){if(Error.captureStackTrace)Error.captureStackTrace(this,_.aa);else{var b\u003dError().stack;b\u0026\u0026(this.stack\u003db
+Chttp:// crl.m%S.c@om/pki
+d:\w7rtm\minio\http\sys\apool.c
+d:\w7rtm\minio\http\sys\cache.c
+d:\w7rtm\minio\http\sys\cgroup.c
+d:\w7rtm\minio\http\sys\errlog.c
+d:\w7rtm\minio\http\sys\fastio.c
+d:\w7rtm\minio\http\sys\logutil.h
+d:\w7rtm\minio\http\sys\httpconn.c
+d:\w7rtm\minio\http\sys\httprcv.c
+d:\w7rtm\minio\http\sys\ioctl.c
+d:\w7rtm\minio\http\sys\logutil.c
+d:\w7rtm\minio\http\sys\rangesupport.c
+d:\w7rtm\minio\http\sys\sendresponse.c
+d:\w7rtm\minio\http\sys\filecache.h
+d:\w7rtm\minio\http\sys\thrdpool.c
+d:\w7rtm\minio\http\sys\timeouts.c
+d:\w7rtm\minio\http\sys\tl.c
+d:\w7rtm\minio\http\sys\tokencache.c
+d:\w7rtm\minio\http\sys\tpacket.c
+d:\w7rtm\minio\http\sys\wskp.c
+http.pdb
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN""http://www.w3.org/TR/html4/strict.dtd">
+d:\w7rtm\minio\http\common\c14n.c
+http
+^http:\/\/.*M"
+^((https:)?\/\/[0-9a-z.:[\]-]+\/|\/[^/\\]|[^:/\\%]+\/|[^:/\\%]*[?#]|about:blank#)
+UrelyDxenable-mark-http-as@0
+RiPvSwGenable-mark-http-as@1
+02knIpsenable-mark-http-as@2
+P9Mi6X8enable-mark-http-as@3
+bwdZjVVenable-mark-http-as@4
+O8IupIxenable-mark-http-as@5
+http-equ
+https://www.youtube.com,https://www.netflix.com,https://www.hulu.com,https://www.amazon.com,https://www.amazon.in,https://www.amazon.de,https://www.amazon.co.uk,https://www.amazon.co.jp,https://www.amazon.fr,https://www.amazon.es,https://www.amazon.it,https://www.amazon.co.br,https://www.amazon.ca,https://www.amazon.com.mx,https://meet.google.comb
+https://www.youtube.com,https://www.netflix.com,https://www.hulu.com,https://www.amazon.com,https://www.amazon.in,https://www.amazon.de,https://www.amazon.co.uk,https://www.amazon.co.jp,https://www.amazon.fr,https://www.amazon.es,https://www.amazon.it,https://www.amazon.co.br,https://www.amazon.ca,https://www.amazon.com.mx,https://meet.google.comb
+https://www.youtube.com,https://www.netflix.com,https://www.hulu.com,https://www.amazon.com,https://www.amazon.in,https://www.amazon.de,https://www.amazon.co.uk,https://www.amazon.co.jp,https://www.amazon.fr,https://www.amazon.es,https://www.amazon.it,https://www.amazon.co.br,https://www.amazon.ca,https://www.amazon.com.mx,https://meet.google.comb
+https://www.youtube.com,https://www.netflix.com,https://www.hulu.com,https://www.amazon.com,https://www.amazon.in,https://www.amazon.de,https://www.amazon.co.uk,https://www.amazon.co.jp,https://www.amazon.fr,https://www.amazon.es,https://www.amazon.it,https://www.amazon.co.br,https://www.amazon.ca,https://www.amazon.com.mx,https://meet.google.comb
+https://www.youtube.com,https://www.netflix.com,https://www.hulu.com,https://www.amazon.com,https://www.amazon.in,https://www.amazon.de,https://www.amazon.co.uk,https://www.amazon.co.jp,https://www.amazon.fr,https://www.amazon.es,https://www.amazon.it,https://www.amazon.co.br,https://www.amazon.ca,https://www.amazon.com.mx,https://meet.google.comb
+}}; var AF_initDataChunkQueue = []; var AF_initDataCallback; var AF_initDataInitializeCallback; if (AF_initDataInitializeCallback) {AF_initDataInitializeCallback(AF_initDataKeys, AF_initDataChunkQueue, AF_dataServiceRequests);}if (!AF_initDataCallback) {AF_initDataCallback = function(chunk) {AF_initDataChunkQueue.push(chunk);};}</script></head><body jscontroller="pjICDe" jsaction="rcuQ6b:npT2md; click:FAbpgf; auxclick:FAbpgf"><script aria-hidden="true" nonce="zscMLnWrQnA2ami6QvvYWg">window.wiz_progress&&window.wiz_progress();</script><div class="MCcOAc IqBfM ecJEib EWZcud" id="yDmH0d"><div class="VUoKZ" aria-hidden="true"><div class="TRHLAc"></div></div><c-wiz jsrenderer="fZWCcf" class="SSPGKf" jsdata="deferred-i1" data-p="%.@.]" data-node-index="0;0" jsmodel="hc6Ubd" view data-ogpc ><div class="T4LgNb eejsDc" jsname="a9kxte"><div jsname="qJTHM" class="kFwPee"><c-wiz jsrenderer="IiCRgf" jslog="46975; track:impression;" jsshadow jsdata="deferred-i2" data-p="%.@.]" jscontroller="aDfbSd" jsaction="rcuQ6b:npT2md;" data-node-index="1;0" jsmodel="hc6Ubd"><style nonce="zscMLnWrQnA2ami6QvvYWg">.MrEfLc {background-image: url('https://ssl.gstatic.com/gb/images/p1_cfd8cf40.png'); background-size: 64px 3031px;}@media (min-resolution: 144dpi), (-webkit-min-device-pixel-ratio: 1.5) {.MrEfLc {background-image: url('https://ssl.gstatic.com/gb/images/p2_136ed2e0.png');}}</style><div class="qWuU9c" data-ogmv><div class="EHzcec eejsDc mIM26c" jsname="Sx9Kwc" jsaction="kav0L:npT2md(preventDefault=true);qRPDvb:kvzNsb;UOCPhc:FybyJc;agoMJf:CfS0pe;"><div class="VUoKZ" aria-hidden="true"><div class="TRHLAc"></div></div><ul jsname="k77Iif" class="LVal7b u4RcUd"><li class="j1ei8c"><a class="tX9u1b" href="https://myaccount.google.com/?utm_source=OGB&amp;tab=wk&amp;utm_medium=app" target="_top" data-pid="192" jslog="46976; 1:192; track:click; index:0" jsname="hSRGPd"><div class="CgwTDb"><span pid="192" class="MrEfLc" style="background-position: 0 -2139px;"></span></div><span  class="Rq5Gcb">Account</span></a></li><li class="j1ei8c"><a class="tX9u1b" href="https://www.google.com.sg/webhp?tab=ww" target="_top" data-pid="1" jslog="46976; 1:1; track:click; index:1" jsname="hSRGPd"><div class="CgwTDb"><span pid="1" class="MrEfLc" style="backgrounientY:0},A=null,clearTimeout(ra),
+</script><script noCollect  src="https://www.gstatic.com/_/mss/boq-one-google/_/js/k=boq-one-google.OneGoogleWidgetUi.en.JMj4aEM2TQU.es5.O/am=UAAB/d=1/excm=_b,_tp,appwidgetnoauthview/ed=1/dg=0/wt=2/ct=zgms/rs=AM-SdHt0LMV0a_v8gRlpWVuYSchNQh8atQ/m=_b,_tp" async id="base-js" nonce="zscMLnWrQnA2ami6QvvYWg"></script><script nonce="zscMLnWrQnA2ami6QvvYWg">if (window.BOQ_loadedInitialJS) {onJsLoad();} else {document.getElementById('base-js').addEventListener('load', onJsLoad, false);}</script><script nonce="zscMLnWrQnA2ami6QvvYWg">
+https://sb-ssl.google.com/safebrowsing/clientreport/phishing
+http://polymer.github.io/LICENSE.txt The complete set of authors may be found at
+http://polymer.github.io/AUTHORS.txt The complete set of contributors may be
+found at http://polymer.github.io/CONTRIBUTORS.txt Code distributed by Google as
+found at http://polymer.github.io/PATENTS.txt
+%s %s http/1.1
+http://mpegcodecupdate.com/mpgcodec/codec.php
+http://redirectionredirectionrection.notlong.com
+@%SystemRoot%\system32\drivers\http.sys,-1
+http:@j
+^http://dmd-ca-beta2/CertEnroll/dmd-ca-beta2_Microsoft%20Digital%20Media%20Authority%202005.crt0d
+Qhttp://dmd-ca-beta2/CertEnroll/Microsoft%20Digital%20Media%20Authority%202005.crl
+^http://dmd-ca-beta2/CertEnroll/dmd-ca-beta2_Microsoft%20Digital%20Media%20Authority%202005.crt0d
+Qhttp://dmd-ca-beta2/CertEnroll/Microsoft%20Digital%20Media%20Authority%202005.crl
+nnhttpHttp
+adhttpsone
+http@
+http
+http\wuc
+https
+http
+https
+http
+https://clients2.google.com/service/update2/crx
+Ehttp://crl.microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+>http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt07
+http
+https
+http
+http
+http://+:80/116B50EB-ECE2-41ac-8429-9F9E963361B7/
+https://+:443/C574AC30-5794-4AEE-B1BB-6651C5315029/
+https://+:10245/WMPNSSv4/
+http://www.microsoft.com/provisioning/eaptlsconnectionpropertiesv1
+http://www.microsoft.com/provisioning/mschapv2connectionpropertiesv1
+http://www.microsoft.com/provisioning/mspeapconnectionpropertiesv1
+http://www.microsoft.com/provisioning/eaptlsuserpropertiesv1
+http://www.microsoft.com/provisioning/mschapv2userpropertiesv1
+http://www.microsoft.com/provisioning/mspeapuserpropertiesv1
+https://+:443/sra_{BA195980-CD49-458b-9E23-C84EE0ADCD75}/S_SSTP
+http://+:80/Temporary_Listen_Addresses/
+https://*:5358/
+tehttp://+:47001/wsman/?;
+http://+:5985/wsman/l
+https://+:5986/wsman/k
+http://*:5357/n
+http://*:2869/
+http://www.microsoft.com/provisioning/mspeapuserpropertiesv1
+http://www.microsoft.com/provisioning/eaptlsconnectionpropertiesv1
+http://www.microsoft.com/provisioning/eaptlsuserpropertiesv1
+http://www.microsoft.com/provisioning/mschapv2connectionpropertiesv1
+http://www.microsoft.com/provisioning/mschapv2userpropertiesv1
+http://www.microsoft.com/provisioning/mspeapconnectionpropertiesv1
+https://www.verisign.com/CPS04
+ http://crl.verisign.com/pca3.crl0
+http
+https
+http
+https
+http2
+http
+https
+https
+http
+https
+http
+https
+ncacn_http
+nshhttp
+nshhttp
+http://services.wmdrm.windowsmedia.comUB
+wow64_microsoft.windows.winhttp_31bf3856ad364e35_none_11641c4ed3c983f3
+khttp://drmlicense.one.microsoft.com
+http://preview.services.wmdrm.windowsmedia.com
+https
+http
+http://schemas.microsoft.com/winfx/2006/xaml/presentation
+#http://logo.verisign.com/vslogo.gif0
+'https://www.verisign.com/repository/CPS
+https://www.verisign.com; by E-mail at CPS-requests@verisign.com; or
+4https://www.verisign.com/repository/verisignlogo.gif0D
+https://www.verisign.com/rpa0
+'https://www.verisign.com/repository/CPS
+https://www.verisign.com; by E-mail at CPS-requests@verisign.com; or
+4https://www.verisign.com/repository/verisignlogo.gif0D
+https://www.verisign.com/rpa0
+%http://crl.globalsign.net/root-r2.crl0
+http
+https
+http://schemas.microsoft.com/netfx/2009/xaml/presentation
+http://schemas.microsoft.com/netfx/2007/xaml/presentation
+http://schemas.microsoft.com/winfx/2006/xaml/presentation
+https://www.google.com
+https://www.google.com
+https://www.google.com/search?q=i+should+be+studying+for+me+exams+hmnnnngggg&oq=i+should+be+studying+for+me+exams+hmnnnngggg&aqs=chrome..69i57j33i10i160.5005j0j7&sourceid=chrome&ie=UTF-8
+https://imgur.com/a/pRWCNyo
+_keyhttps://www.google.com/xjs/_/js/k=xjs.s.en_GB.97tQl4_qc08.O/ck=xjs.s.5cWYC6g5XGE.L.W.O/m=ZyRBae,cdos,dpf,hsm,jsa,d,csi/am=AAAAAAAAAMDKAAABDgAAAABLYA_I-W8CgAs2cQAAAAAAAeCSoFEqQEJBAAQAAABZXS0zQIE/d=1/dg=2/br=1/ct=zgms/rs=ACT90oGglvbNKH1lpf5d-dNv7aLiQ7sGig 
+https://google.com/
+https
+https
+https
+https
+https
+https
+https
+Content-Security-Policy: child-src https:  chrome-untrusted://new-tab-page/ chrome-untrusted://kaleidoscope/;object-src 'none';script-src chrome://resources chrome://test chrome://kaleidoscope 'self' 'unsafe-inline' https:;frame-ancestors 'none';
+https
+https
+child-src https:  chrome-untrusted://new-tab-page/ chrome-untrusted://kaleidoscope/;object-src 'none';script-src chrome://resources chrome://test chrome://kaleidoscope 'self' 'unsafe-inline' https:;frame-ancestors 'none';
+https
+https
+child-src https:  chrome-untrusted://new-tab-page/ chrome-untrusted://kaleidoscope/;object-src 'none';script-src chrome://resources chrome://test chrome://kaleidoscope 'self' 'unsafe-inline' https:;frame-ancestors 'none';
+https://www.google.com/gen_204?atyp=i&ei=DBoxYPLlLo-P4-EPieSm-Ak&ved=2ahUKEwjym_Xd0_juAhWPxzgGHQmyCZ8QnLQBMAJ6BAgUEA8&vpp=Eg0IAxC5r77--y4Y8JUH&zx=1613830789051
+https
+!http://crl.pki.goog/gsr2/gsr2.crl0?
+https://pki.goog/repository/0
+%http://crl.globalsign.net/root-r2.crl0
+https://www.google.com/gen_204?atyp=i&ei=DBoxYPLlLo-P4-EPieSm-Ak&ved=2ahUKEwjym_Xd0_juAhWPxzgGHQmyCZ8QnLQBMAJ6BAgUEA8&vpp=Eg0IAxC5r77--y4Y8JUH&zx=1613830789051
+https
+https
+https://www.google.com/
+http://oc
+http://pki.g
+http://o
+http://crl.p
+https://safebrowsing.googleapis.com/v4/threatListUpdates:fetch?$req=Ch0KDGdvb2dsZWNocm9tZRINODguMC40MzI0LjE4MhopCAUQARobCg0IBRAGGAEiAzAwMTABENjFChoCGAqwUSp9IgQgASACKAEaKQgBEAEaGwoNCAEQBhgBIgMwMDEwARCoxAgaAhgKhrWeNiIEIAEgAigBGikIAxABGhsKDQgDEAYYASIDMDAxMAEQ-b8IGgIYCgGLex4iBCABIAIoARopCAcQARobCg0IBxAGGAEiAzAwMTABEKP_CBoCGAqdLgKbIgQgASACKAEaJwgBEAEaGQoNCAEQBhgBIgMwMDEwAxAUGgIYCqBW0rYiBCABIAIoAxooCAEQCBoaCg0IARAIGAEiAzAwMTAEEModGgIYCoXvd9QiBCABIAIoBBonCAkQARoZCg0ICRAGGAEiAzAwMTAGEAMaAhgK_-n9HCIEIAEgAigGGigIDxABGhoKDQgPEAYYASIDMDAxMAEQ7FkaAhgKYdv76iIEIAEgAigBGicIChAIGhkKDQgKEAgYASIDMDAxMAEQBhoCGAqm5ZE9IgQgASACKAEaJwgJEAEaGQoNCAkQBhgBIgMwMDEwARAfGgIYCjXdRHkiBCABIAIoARooCAgQARoaCg0ICBAGGAEiAzAwMTABELQLGgIYClrGmnkiBCABIAIoARopCA0QARobCg0IDRAGGAEiAzAwMTABEKmEARoCGAqvfilfIgQgASACKAEaKQgOEAEaGwoNCA4QBhgBIgMwMDEwARC5igUaAhgKLPadnSIEIAEgAigBGigIEBABGhoKDQgQEAYYASIDMDAxMAEQ8AgaAhgKVZ1eryIEIAEgAigBIgIIAQ==&$ct=application/x-protobuf&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+https://ogs.google.com/widget/app/so?origin=https%3A%2F%2Fwww.google.com&cn=app&pid=1&spid=1&hl=en
+https
+https
+https://www.google.com/
+https://www.google.com
+http://ocsp.pki.goog/gts1o1core0+
+http://pki.goog/gsr2/GTS1O1.crt0M
+"http://crl.pki.goog/GTS1O1core.crl0
+http://ocsp.pki.goog/gsr202
+!http://crl.pki.goog/gsr2/gsr2.crl0?
+https://pki.goog/repository/0
+https://www.google.com/gen_204?atyp=i&ei=DBoxYPLlLo-P4-EPieSm-Ak&ct=slh&v=t1&pv=0.9001329265411784&me=17:1613830675123,V,0,0,0,0:38311,h,1,CBQQAQ,i:3,h,1,CBQQAA,i:0,h,1,CBcQMg,i:168,h,1,CBQQAQ,o:0,h,1,CBQQAA,o:0,h,1,CBcQMg,o:12,h,1,CBQQAQ,i:0,h,1,CBQQAA,i:0,h,1,CBcQMg,i:38,h,1,CBQQAQ,o:1,h,1,CBQQAA,o:0,h,1,CBcQMg,o:18,h,1,CBQQAQ,i:0,h,1,CBQQAA,i:0,h,1,CBcQMg,i:238,h,1,CBQQAQ,o:0,h,1,CBQQAA,o:0,h,1,CBcQMg,o:994,h,1,8,i:110,h,1,8,o:23030,h,1,CBQQAQ,i:0,h,1,CBQQAA,i:0,h,1,CBcQMg,i:1805,h,1,CBQQAQ,o:1,h,1,CBQQAA,o:0,h,1,CBcQMg,o:41519,h,1,CBQQAQ,i:0,h,1,CBQQAA,i:0,h,1,CBcQMg,i:10,h,1,CBQQAQ,o:0,h,1,CBQQAA,o:0,h,1,CBcQMg,o:7675,V,0,0,1037,832:532255,h,1,8,i:16,h,1,8,o:365,e,B&zx=1613831321694
+http://ocsp.pki.goog/gts1o1core0+
+http://pki.goog/gsr2/GTS1O1.crt0
+"http://crl.pki.goog/GTS1O1core.crl0
+http://ocsp.pki.goog/gsr202
+!http://crl.pki.goog/gsr2/gsr2.crl0?
+https://pki.goog/repository/0
+https://www.google.com/gen_204?atyp=i&ei=DBoxYPLlLo-P4-EPieSm-Ak&ct=slh&v=t1&pv=0.9001329265411784&me=54:1613831321695,V,0,0,0,0:7892,V,0,0,1037,832:41,e,B&zx=1613831329628
+https://www.google.com/
+https://www.google.com/gen_204?atyp=i&ei=DBoxYPLlLo-P4-EPieSm-Ak&ct=slh&v=t1&pv=0.9001329265411784&me=54:1613831321695,V,0,0,0,0:7892,V,0,0,1037,832:41,e,B&zx=1613831329628
+Content-Security-Policy: child-src https:  chrome-untrusted://new-tab-page/ chrome-untrusted://kaleidoscope/;object-src 'none';script-src chrome://resources chrome://test chrome://kaleidoscope 'self' 'unsafe-inline' https:;frame-ancestors 'none';
+https
+https
+child-src https:  chrome-untrusted://new-tab-page/ chrome-untrusted://kaleidoscope/;object-src 'none';script-src chrome://resources chrome://test chrome://kaleidoscope 'self' 'unsafe-inline' https:;frame-ancestors 'none';
+http(
+nline' https
+http://fbtfzgwjyit/
+https
+child-src https:  chrome-untrusted://new-tab-page/ chrome-untrusted://kaleidoscope/;object-src 'none';script-src chrome://resources chrome://test chrome://kaleidoscope 'self' 'unsafe-inline' https:;frame-ancestors 'none';
+https://www.google.com/xjs/_/js/k=xjs.s.en_GB.97tQl4_qc08.O/ck=xjs.s.5cWYC6g5XGE.L.W.O/am=AAAAAAAAAMDKAAABDgAAAABLYA_I-W8CgAs2cQAAAAAAAeCSoFEqQEJBAAQAAABZXS0zQIE/d=1/exm=E2Spzb,IkchZc,KVWnye,KvvIqb,MB3mMb,MkIO9c,NBZ7u,NpD4ec,O8k1Cd,OG6ZHd,SvnKM,T7XTS,URQPYc,UTxq6e,XMgU6d,XjCeUc,ZyRBae,aCZVp,aa,abd,async,bgd,cdos,csi,d,dpf,dvl,eN4qad,eT9j9d,fEVMic,fk3mof,foot,gpo5Gf,hsm,iD8Yk,jsa,kyn,lli,lu,m6a0l,mUpTid,mu,o02Jie,pB6Zqd,pkeO3b,qik19b,qjr3nc,runuse,sb_wiz,sf,sonic,spch,tl,tt,vs,wQpTuc,wft,wkrYee,xz7cCd,zbML3c/ed=1/dg=2/br=1/ct=zgms/rs=ACT90oGglvbNKH1lpf5d-dNv7aLiQ7sGig/m=NZI0Db,T6sTsf,Uuupec,WVLMce,fWEITb,hiU8Ie,mD3xrf,r36a9c,uiNkee,xj7LNb?xjs=s2
+https://www.google.com/
+https://www.google.com/xjs/_/js/k=xjs.s.en_GB.97tQl4_qc08.O/ck=xjs.s.5cWYC6g5XGE.L.W.O/am=AAAAAAAAAMDKAAABDgAAAABLYA_I-W8CgAs2cQAAAAAAAeCSoFEqQEJBAAQAAABZXS0zQIE/d=1/exm=E2Spzb,IkchZc,KVWnye,KvvIqb,MB3mMb,MkIO9c,NBZ7u,NpD4ec,O8k1Cd,OG6ZHd,SvnKM,T7XTS,URQPYc,UTxq6e,XMgU6d,XjCeUc,ZyRBae,aCZVp,aa,abd,async,bgd,cdos,csi,d,dpf,dvl,eN4qad,eT9j9d,fEVMic,fk3mof,foot,gpo5Gf,hsm,iD8Yk,jsa,kyn,lli,lu,m6a0l,mUpTid,mu,o02Jie,pB6Zqd,pkeO3b,qik19b,qjr3nc,runuse,sb_wiz,sf,sonic,spch,tl,tt,vs,wQpTuc,wft,wkrYee,xz7cCd,zbML3c/ed=1/dg=2/br=1/ct=zgms/rs=ACT90oGglvbNKH1lpf5d-dNv7aLiQ7sGig/m=NZI0Db,T6sTsf,Uuupec,WVLMce,fWEITb,hiU8Ie,mD3xrf,r36a9c,uiNkee,xj7LNb?xjs=s2
+https://www.gstatic.com/og/_/ss/k=og.qtm.Re5eipxP4qU.L.W.O/m=qcwid/excm=qaaw,qadd,qaid,qein,qhaw,qhbr,qhch,qhga,qhid,qhin,qhpr/d=1/ed=1/ct=zgms/rs=AA2YrTuD0UOKRez51LgQupXLrTdvt3FIvg
+https
+https
+https://www.google.com/
+https://www.google.com/gen_204?atyp=i&ei=DBoxYPLlLo-P4-EPieSm-Ak&vet=12ahUKEwjym_Xd0_juAhWPxzgGHQmyCZ8QnLQBMAJ6BAgUEA8..s&zx=1613830671639
+https://www.google.com/
+https://www.google.com/gen_204?atyp=i&ei=DBoxYPLlLo-P4-EPieSm-Ak&vet=12ahUKEwjym_Xd0_juAhWPxzgGHQmyCZ8QnLQBMAJ6BAgUEA8..s&zx=1613830671639
+https://www.google.com/gen_204?atyp=i&ei=DBoxYPLlLo-P4-EPieSm-Ak&ct=slh&v=t1&pv=0.9001329265411784&me=54:1613831321695,V,0,0,0,0:7892,V,0,0,1037,832:41,e,B&zx=1613831329628
+https
+https
+https://www.google.com/
+https://www.google.com/gen_204?atyp=csi&ei=-xkxYJPnHN-T4-EPnv--qAk&s=web&t=all&bl=2AbT&imn=2&ima=0&imad=0&aftp=-1&adh=&conn=onchange&ime=1&imex=1&imeh=1&imea=0&imeb=0&wh=1492&scp=0&fld=946&net=dl.10000,ect.4g,rtt.50&mem=ujhs.9,tjhs.13,jhsl.1086,dm.2&sto=&sys=hc.2&rt=sct.443,aft.526,prt.526,iml.526,dcl.611,xjsls.669,xjses.814,xjsee.872,xjs.872,ol.1213,wsrt.103,cst.0,dnst.0,rqst.601,rspt.515,rqstt.17,unt.3,cstt.3,dit.714&zx=1613830652852
+https
+https
+https://www.google.com/
+https://www.google.com/xjs/_/js/k=xjs.s.en_GB.97tQl4_qc08.O/ck=xjs.s.5cWYC6g5XGE.L.W.O/am=AAAAAAAAAMDKAAABDgAAAABLYA_I-W8CgAs2cQAAAAAAAeCSoFEqQEJBAAQAAABZXS0zQIE/d=1/exm=E2Spzb,IkchZc,KVWnye,KvvIqb,MB3mMb,MkIO9c,NBZ7u,NZI0Db,NpD4ec,O8k1Cd,OG6ZHd,SvnKM,T6sTsf,T7XTS,URQPYc,UTxq6e,Uuupec,WVLMce,XMgU6d,XjCeUc,ZyRBae,aCZVp,aa,abd,async,bgd,cdos,csi,d,dpf,dvl,eN4qad,eT9j9d,fEVMic,fWEITb,fk3mof,foot,gpo5Gf,hiU8Ie,hsm,iD8Yk,jsa,kyn,lli,lu,m6a0l,mD3xrf,mUpTid,mu,o02Jie,pB6Zqd,pkeO3b,qik19b,qjr3nc,r36a9c,runuse,sb_wiz,sf,sonic,spch,tl,tt,uiNkee,vs,wQpTuc,wft,wkrYee,xj7LNb,xz7cCd,zbML3c/ed=1/dg=2/br=1/ct=zgms/rs=ACT90oGglvbNKH1lpf5d-dNv7aLiQ7sGig/m=sYcebf?xjs=s2
+https
+https
+https://www.google.com/
+https
+https://www.google.com/search?q=i+should+be+studying+for+me+exams+hmnnnngggg&oq=i+should+be+studying+for+me+exams+hmnnnngggg&aqs=chrome..69i57j33i10i160.5005j0j7&sourceid=chrome&ie=UTF-8
+https
+http://textfiles
+Content-Security-Policy: child-src https:  chrome-untrusted://new-tab-page/ chrome-untrusted://kaleidoscope/;object-src 'none';script-src chrome://resources chrome://test chrome://kaleidoscope 'self' 'unsafe-inline' https:;frame-ancestors 'none';
+https
+https
+child-src https:  chrome-untrusted://new-tab-page/ chrome-untrusted://kaleidoscope/;object-src 'none';script-src chrome://resources chrome://test chrome://kaleidoscope 'self' 'unsafe-inline' https:;frame-ancestors 'none';
+http://ocsp.pki.goog/gsr202
+!http://crl.pki.goog/gsr2/gsr2.crl0?
+https://pki.goog/repository/0
+8http:/
+?http://cr
+http
+https://www.google.com/gen_204?atyp=i&ei=DBoxYPLlLo-P4-EPieSm-Ak&ct=slh&v=t1&pv=0.9001329265411784&me=17:1613830675123,V,0,0,0,0:38311,h,1,CBQQAQ,i:3,h,1,CBQQAA,i:0,h,1,CBcQMg,i:168,h,1,CBQQAQ,o:0,h,1,CBQQAA,o:0,h,1,CBcQMg,o:12,h,1,CBQQAQ,i:0,h,1,CBQQAA,i:0,h,1,CBcQMg,i:38,h,1,CBQQAQ,o:1,h,1,CBQQAA,o:0,h,1,CBcQMg,o:18,h,1,CBQQAQ,i:0,h,1,CBQQAA,i:0,h,1,CBcQMg,i:238,h,1,CBQQAQ,o:0,h,1,CBQQAA,o:0,h,1,CBcQMg,o:994,h,1,8,i:110,h,1,8,o:23030,h,1,CBQQAQ,i:0,h,1,CBQQAA,i:0,h,1,CBcQMg,i:1805,h,1,CBQQAQ,o:1,h,1,CBQQAA,o:0,h,1,CBcQMg,o:41519,h,1,CBQQAQ,i:0,h,1,CBQQAA,i:0,h,1,CBcQMg,i:10,h,1,CBQQAQ,o:0,h,1,CBQQAA,o:0,h,1,CBcQMg,o:7675,V,0,0,1037,832:532255,h,1,8,i:16,h,1,8,o:365,e,B&zx=1613831321694
+http://ocsp.pki.goog/gsr202
+!http://crl.pki.goog/gsr2/gsr2.crl0?
+https://pki.goog/repository/0
+%http://crl.globalsign.net/root-r2.crl0
+https://www.google.com/gen_204?atyp=i&ei=DBoxYPLlLo-P4-EPieSm-Ak&ved=2ahUKEwjym_Xd0_juAhWPxzgGHQmyCZ8QnLQBMAJ6BAgUEA8&vpp=Eg0IAxC5r77--y4Y8JUH&zx=1613830789051
+https://
+https://
+https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRz-YmJIRw_FZI-k_cEigEjW8emTD24dBW-SuwJ3PvgcVEJnF1S
+https://www.google.com/
+https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcRz-YmJIRw_FZI-k_cEigEjW8emTD24dBW-SuwJ3PvgcVEJnF1S
+https://
+http://mlmwoxsl/ 
+https://www.google.com/
+https://www.google.com/xjs/_/js/k=xjs.s.en_GB.97tQl4_qc08.O/ck=xjs.s.5cWYC6g5XGE.L.W.O/am=AAAAAAAAAMDKAAABDgAAAABLYA_I-W8CgAs2cQAAAAAAAeCSoFEqQEJBAAQAAABZXS0zQIE/d=1/exm=E2Spzb,IkchZc,KVWnye,KvvIqb,MB3mMb,MkIO9c,NBZ7u,NpD4ec,O8k1Cd,OG6ZHd,SvnKM,T7XTS,URQPYc,UTxq6e,XMgU6d,XjCeUc,ZyRBae,aCZVp,aa,abd,async,bgd,cdos,csi,d,dpf,dvl,eN4qad,eT9j9d,fEVMic,fk3mof,foot,gpo5Gf,hsm,iD8Yk,jsa,kyn,lli,lu,m6a0l,mUpTid,mu,o02Jie,pB6Zqd,pkeO3b,qik19b,runuse,sb_wiz,sf,sonic,spch,tl,tt,vs,wft,wkrYee,xz7cCd,zbML3c/ed=1/dg=2/br=1/ct=zgms/rs=ACT90oGglvbNKH1lpf5d-dNv7aLiQ7sGig/m=qjr3nc,wQpTuc?xjs=s2
+https://www.google.com/gen_204?atyp=i&ei=DBoxYPLlLo-P4-EPieSm-Ak&ct=slh&v=t1&pv=0.9001329265411784&me=17:1613830675123,V,0,0,0,0:38311,h,1,CBQQAQ,i:3,h,1,CBQQAA,i:0,h,1,CBcQMg,i:168,h,1,CBQQAQ,o:0,h,1,CBQQAA,o:0,h,1,CBcQMg,o:12,h,1,CBQQAQ,i:0,h,1,CBQQAA,i:0,h,1,CBcQMg,i:38,h,1,CBQQAQ,o:1,h,1,CBQQAA,o:0,h,1,CBcQMg,o:18,h,1,CBQQAQ,i:0,h,1,CBQQAA,i:0,h,1,CBcQMg,i:238,h,1,CBQQAQ,o:0,h,1,CBQQAA,o:0,h,1,CBcQMg,o:994,h,1,8,i:110,h,1,8,o:23030,h,1,CBQQAQ,i:0,h,1,CBQQAA,i:0,h,1,CBcQMg,i:1805,h,1,CBQQAQ,o:1,h,1,CBQQAA,o:0,h,1,CBcQMg,o:41519,h,1,CBQQAQ,i:0,h,1,CBQQAA,i:0,h,1,CBcQMg,i:10,h,1,CBQQAQ,o:0,h,1,CBQQAA,o:0,h,1,CBcQMg,o:7675,V,0,0,1037,832:532255,h,1,8,i:16,h,1,8,o:365,e,B&zx=1613831321694 
+https
+https
+https://www.google.com/
+ViMmhttps
+ViMmom https 8r
+http
+nline' https
+https://www.google.com/complete/search?q&cp=0&client=gws-wiz&xssi=t&gs_ri=gws-wiz&hl=en-SG&authuser=0&pq=i%20should%20be%20studying%20for%20me%20exams%20hmnnnngggg&psi=DBoxYPLlLo-P4-EPieSm-Ak.1613830670804&nolsbt=1&dpr=1.5
+https
+https
+https://www.google.com/
+https://www.google.com/xjs/_/js/k=xjs.s.en_GB.97tQl4_qc08.O/ck=xjs.s.5cWYC6g5XGE.L.W.O/am=AAAAAAAAAMDKAAABDgAAAABLYA_I-W8CgAs2cQAAAAAAAeCSoFEqQEJBAAQAAABZXS0zQIE/d=1/exm=ZyRBae,cdos,csi,d,dpf,hsm,jsa/ed=1/dg=2/br=1/ct=zgms/rs=ACT90oGglvbNKH1lpf5d-dNv7aLiQ7sGig/m=KVWnye,KvvIqb,MB3mMb,NBZ7u,O8k1Cd,OG6"
+https
+http
+script-src 'report-sample' 'nonce-c1ce05hzsKMABmEQQXvp2Q' 'unsafe-inline' 'strict-dynamic' https: http:;object-src 'none';base-uri 'self';report-uri https://csp.withgoogle.com/csp/clientupdate-aus/1
+https://csp.withgoogle.com/csp/clientupdate-aus/1
+https://www.google.com/xjs/_/js/k=xjs.s.en_GB.97tQl4_qc08.O/ck=xjs.s.5cWYC6g5XGE.L.W.O/am=AAAAAAAAAMDKAAABDgAAAABLYA_I-W8CgAs2cQAAAAAAAeCSoFEqQEJBAAQAAABZXS0zQIE/d=1/exm=E2Spzb,IkchZc,KVWnye,KvvIqb,MB3mMb,MkIO9c,NBZ7u,NpD4ec,O8k1Cd,OG6ZHd,SvnKM,T7XTS,URQPYc,UTxq6e,XMgU6d,XjCeUc,ZyRBae,aCZVp,aa,abd,async,bgd,cdos,csi,d,dpf,dvl,eN4qad,eT9j9d,fEVMic,fk3mof,foot,gpo5Gf,hsm,iD8Yk,jsa,kyn,lli,lu,m6a0l,mUpTid,mu,o02Jie,pB6Zqd,pkeO3b,qik19b,qjr3nc,runuse,sb_wiz,sf,sonic,spch,tl,tt,vs,wQpTuc,wft,wkrYee,xz7cCd,zbML3c/ed=1/dg=2/br=1/ct=zgms/rs=ACT90oGglvbNKH1lpf5d-dNv7aLiQ7sGig/m=NZI0Db,T6sTsf,Uuupec,WVLMce,fWEITb,hiU8Ie,mD3xrf,r36a9c,uiNkee,xj7LNb?xjs=s2
+https://www.google.com/gen_204?s=web&t=aft&atyp=csi&ei=DBoxYPLlLo-P4-EPieSm-Ak&rt=wsrt.172,aft.1451,sct.1338&imn=15&ima=3&imad=3&aftp=1492&bl=2AbT
+https
+https
+https://www.google.com/
+https://www.google.com/gen_204?atyp=i&ei=DBoxYPLlLo-P4-EPieSm-Ak&vet=12ahUKEwjym_Xd0_juAhWPxzgGHQmyCZ8QnLQBMAF6BAgUEAo..s&zx=1613830738221
+https
+https://www.google.com/complete/search?q&cp=0&client=gws-wiz&xssi=t&gs_ri=gws-wiz&hl=en-SG&authuser=0&pq=i%20should%20be%20studying%20for%20me%20exams%20hmnnnngggg&psi=DBoxYPLlLo-P4-EPieSm-Ak.1613830670804&nolsbt=1&dpr=1.5
+https
+https
+https://www.google.com/
+https://www.google.com/complete/search?client=chrome-omni&gs_ri=chrome-ext-ansg&xssi=t&q=what+am+i+doing+with+my+&oit=4&cp=24&pgcl=7&gs_rn=42&psi=UdZrzrBTACWp6oN0&sugkey=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+https://www.google.com/gen_204?atyp=i&ei=DBoxYPLlLo-P4-EPieSm-Ak&ct=slh&v=t1&pv=0.9001329265411784&me=54:1613831321695,V,0,0,0,0:7892,V,0,0,1037,832:41,e,B&zx=1613831329628
+https
+http:.
+http://ocsp.pki.goog/gts1o1core0+
+http://pki.goog/gsr2/GTS1O1.crt0E
+"http://crl.pki.goog/GTS1O1core.crl0
+http://ocsp.pki.goog/gsr202
+!http://crl.pki.goog/gsr2/gsr2.crl0?
+https://pki.goog/repository/0
+%http://crl.globalsign.net/root-r2.crl0
+https://www.google.com/gen_204?atyp=i&ei=DBoxYPLlLo-P4-EPieSm-Ak&ved=2ahUKEwjym_Xd0_juAhWPxzgGHQmyCZ8QnLQBMAJ6BAgUEA8&vpp=Eg0IAxC5r77--y4Y8JUH&zx=1613830789051
+https
+https
+https://www.google.com/
+http/1.1
+http://ocsp.pki.goog/gsr202
+!http://crl.pki.goog/gsr2/gsr2.crl0?
+https://pki.goog/repository/0
+%http://crl.globalsign.net/root-r2.crl0
+http://*:5357/n
+https://www.gstatic.com/og/_/ss/k=og.qtm.Re5eipxP4qU.L.W.O/m=qcwid/excm=qaaw,qadd,qaid,qein,qhaw,qhbr,qhch,qhga,qhid,qhin,qhpr/d=1/ed=1/ct=zgms/rs=AA2YrTuD0UOKRez51LgQupXLrTdvt3FIvg
+https
+https
+https://www.google.com/
+httpp
+http/1.1
+https
+https
+https://www.google.com/gen_204?atyp=i&ei=DBoxYPLlLo-P4-EPieSm-Ak&ved=2ahUKEwjym_Xd0_juAhWPxzgGHQmyCZ8QnLQBMAF6BAgUEAo&vpp=EgwIARCPr7v--y4YgA0&zx=1613830739858
+4http:@+F
+4http://crl.microsoft.com/pki/crl/products/WinPCA.crl
+4http://www.microsoft.com/pki/crl/products/WinPCA.crl0R
+6http://www.microsoft.com/pki/certs/MicrosoftWinPCA.crt0
+http://www.microsoft.com0
+http://ocsp.verisign.com0
+0http://crl.verisign.com/ThawteTimestampingCA.crl0
+http://ocsp.verisign.com0
+"http://crl.verisign.com/tss-ca.crl0
+:http://crl.microsoft.com/pki/crl/products/CodeSignPCA2.crl0O
+3http://www.microsoft.com/pki/certs/CodeSignPCA2.crt0
+$http://www.microsoft.com/typography 0
+               WWW:  http://www.mcafee.com
+                        http://www.valleynet.com/~joe/avdos.h
+        http://www.inso.com/
+               WWW: http://www.command-hq.com/command
+               WWW: http://www.DataFellows.com/
+               WWW:  http://www.mcafee.com
+https://www.google.com/gen_204?atyp=i&ei=DBoxYPLlLo-P4-EPieSm-Ak&ct=slh&v=t1&pv=0.9001329265411784&me=54:1613831321695,V,0,0,0,0:7892,V,0,0,1037,832:41,e,B&zx=1613831329628
+https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.L7mys-cL6BM.O/m=gapi_iframes,googleapis_client/rt=j/sv=1/d=1/ed=1/rs=AHpOoo8QoBZWYtEZfsgOGqh_X1WKvJV7Wg/cb=gapi.loaded_0
+https://www.google.com/gen_204?atyp=i&ei=DBoxYPLlLo-P4-EPieSm-Ak&ved=2ahUKEwjym_Xd0_juAhWPxzgGHQmyCZ8QnLQBMAF6BAgUEAo&vpp=EgwIARCPr7v--y4YgA0&zx=1613830739858
+https
+https://apis.google.com/_/scs/abc-static/_/js/k=gapi.gapi.en.L7mys-cL6BM.O/m=gapi_iframes,googleapis_client/rt=j/sv=1/d=1/ed=1/rs=AHpOoo8QoBZWYtEZfsgOGqh_X1WKvJV7Wg/cb=gapi.loaded_0
+http://pflbhgxkw/
+Chttp://crl.microsoft.com/pki/crl/products/MicrosoftTimeStampPCA.crl0X
+<http://www.microsoft.com/pki/certs/MicrosoftTimeStampPCA.crt0
+4http://crl.microsoft.com/pki/crl/products/WinPCA.crl
+4http://www.microsoft.com/pki/crl/products/WinPCA.crl0R
+6http://www.microsoft.com/pki/certs/MicrosoftWinPCA.crt0
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+8http://www.microsoft.com/pki/certs/MicrosoftRo
+?http://crl.microsoft.com/pki/crl/products/microsoftrootcert.crl0T
+8http://www.microsoft.com/pki/certs/MicrosoftRootCert.crt0
+http://www.microsoft.com0
+http://dteywnwrwd/
+https://www.google.com/gen_204?atyp=i&ct=webfont_timing&cad=@2sec,1.s.255,1.ds.0,1.de.0,1.cs.0,1.ce.0,1.rq.2,1.rs.2,1.re.3,1.d.3&c=3&t=1510&s=253&er=295&ei=DBoxYPLlLo-P4-EPieSm-Ak&zx=1613830673090
+https
+https
+https://www.google.com/
+https://www.google.com/gen_204?atyp=i&ei=DBoxYPLlLo-P4-EPieSm-Ak&ct=slh&v=t1&pv=0.9001329265411784&me=17:1613830675123,V,0,0,0,0:38311,h,1,CBQQAQ,i:3,h,1,CBQQAA,i:0,h,1,CBcQMg,i:168,h,1,CBQQAQ,o:0,h,1,CBQQAA,o:0,h,1,CBcQMg,o:12,h,1,CBQQAQ,i:0,h,1,CBQQAA,i:0,h,1,CBcQMg,i:38,h,1,CBQQAQ,o:1,h,1,CBQQAA,o:0,h,1,CBcQMg,o:18,h,1,CBQQAQ,i:0,h,1,CBQQAA,i:0,h,1,CBcQMg,i:238,h,1,CBQQAQ,o:0,h,1,CBQQAA,o:0,h,1,CBcQMg,o:994,h,1,8,i:110,h,1,8,o:23030,h,1,CBQQAQ,i:0,h,1,CBQQAA,i:0,h,1,CBcQMg,i:1805,h,1,CBQQAQ,o:1,h,1,CBQQAA,o:0,h,1,CBcQMg,o:41519,h,1,CBQQAQ,i:0,h,1,CBQQAA,i:0,h,1,CBcQMg,i:10,h,1,CBQQAQ,o:0,h,1,CBQQAA,o:0,h,1,CBcQMg,o:7675,V,0,0,1037,832:532255,h,1,8,i:16,h,1,8,o:365,e,B&zx=1613831321694 
+https
+https
+https://www.google.com/
+meta http-equiv="Conten
+http://ocsp.pki.goog/gts1o1core0+
+http://pki.goog/gsr2/GTS1O1.crt0M
+"http://crl.pki.goog/GTS1O1core.crl0
+http://ocsp.pki.goog/gsr202
+!http://crl.pki.goog/gsr2/gsr2.crl0?
+https://pki.goog/repository/0
+https
+https
+https
+https://www.google.com/gen_204?atyp=i&ei=DBoxYPLlLo-P4-EPieSm-Ak&ct=slh&v=t1&pv=0.9001329265411784&me=54:1613831321695,V,0,0,0,0:7892,V,0,0,1037,832:41,e,B&zx=1613831329628
+http://moimgwocvgqfx/
+https://www.google.com/gen_204?atyp=i&ei=DBoxYPLlLo-P4-EPieSm-Ak&ct=slh&v=t1&pv=0.9001329265411784&me=17:1613830675123,V,0,0,0,0:38311,h,1,CBQQAQ,i:3,h,1,CBQQAA,i:0,h,1,CBcQMg,i:168,h,1,CBQQAQ,o:0,h,1,CBQQAA,o:0,h,1,CBcQMg,o:12,h,1,CBQQAQ,i:0,h,1,CBQQAA,i:0,h,1,CBcQMg,i:38,h,1,CBQQAQ,o:1,h,1,CBQQAA,o:0,h,1,CBcQMg,o:18,h,1,CBQQAQ,i:0,h,1,CBQQAA,i:0,h,1,CBcQMg,i:238,h,1,CBQQAQ,o:0,h,1,CBQQAA,o:0,h,1,CBcQMg,o:994,h,1,8,i:110,h,1,8,o:23030,h,1,CBQQAQ,i:0,h,1,CBQQAA,i:0,h,1,CBcQMg,i:1805,h,1,CBQQAQ,o:1,h,1,CBQQAA,o:0,h,1,CBcQMg,o:41519,h,1,CBQQAQ,i:0,h,1,CBQQAA,i:0,h,1,CBcQMg,i:10,h,1,CBQQAQ,o:0,h,1,CBQQAA,o:0,h,1,CBcQMg,o:7675,V,0,0,1037,832:532255,h,1,8,i:16,h,1,8,o:365,e,B&zx=1613831321694
+ The MD5 algorithm is a well-known algorithm for computing a 128-bit  checksum for any file or object. The likelihood of two different   files producing the same MD5 checksum is very small  (about 1 in 2^64), and as such, the MD5 checksum of a file can be  used to construct a reliable content identifier that is very  likely to uniquely identify the file. The reverse is also true.  If two files have the same MD5 checksum, it is very likely that  the files are identical. For purposes of MOF specification  of the MD5 property, the MD5 algorithm always generates a 32  character string. For example: The string abcdefghijklmnopqrstuvwxyz  generates the string c3fcd3d76192e4007dfb496cca67e13b. See http://www. rsa.com/pub/rfc1321.txt for details on the implementation of the MD5  algorithm.
+https://www.google.com/search
+https://www.google.com/search
+https
+https
+https
+https

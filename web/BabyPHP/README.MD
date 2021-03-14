@@ -74,7 +74,7 @@ We can do a simple search on Google for [magic hashes](https://github.com/spaze/
 
 `code1=240610708&code3=QNKCDZO&code2=0e10011110011111001001100100000111011011`
 
-For the username and password parameters, we can use a MD5 block collision where 2 different binary data have the same MD5 hash. Even better, they still produce the same hash if we append a salt to it. The payload below is urlencoded data. I have added 2 binary files (`md5_1.dat` and `md5_2.dat`) in this repo with the same binary data as below.
+For the username and password parameters, we can use a MD5 block collision where 2 different binary data have the same MD5 hash. Even better, they still produce the same hash if we append a salt to it. The payload below is urlencoded data. I have added 2 binary files (`md5_1.dat` and `md5_2.dat`) in this directory with the same binary data as below.
 
 `username=%4d%c9%68%ff%0e%e3%5c%20%95%72%d4%77%7b%72%15%87%d3%6f%a7%b2%1b%dc%56%b7%4a%3d%c0%78%3e%7b%95%18%af%bf%a2%00%a8%28%4b%f3%6e%8e%4b%55%b3%5f%42%75%93%d8%49%67%6d%a0%d1%55%5d%83%60%fb%5f%07%fe%a2&pass=%4d%c9%68%ff%0e%e3%5c%20%95%72%d4%77%7b%72%15%87%d3%6f%a7%b2%1b%dc%56%b7%4a%3d%c0%78%3e%7b%95%18%af%bf%a2%02%a8%28%4b%f3%6e%8e%4b%55%b3%5f%42%75%93%d8%49%67%6d%a0%d1%d5%5d%83%60%fb%5f%07%fe%a2`
 
